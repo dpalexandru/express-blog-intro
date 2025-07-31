@@ -10,3 +10,8 @@ Configuriamo gli asset statici sull’applicazione in modo che si possano visual
 Testare su postman
 
 Buon lavoro!
+
+### Cosa ho imparato 
+In questo esercizio ho imparato a creare un server con Express.js, definire rotte (/ e /bacheca), restituire dati in formato JSON e gestire un array di post con titolo, contenuto, immagine e tag. Ho anche imparato a servire file statici dalla cartella public. È stato un ottimo primo passo per capire come funziona un backend in Node.js.
+
+### Consegna 31/07/2025
