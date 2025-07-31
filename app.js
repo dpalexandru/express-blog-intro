@@ -46,4 +46,9 @@ const posts = [{
         immagine: "./public/img/pisacane.jpg",
         tags: ["mina", "cagliari", "maglia", "serie a"]
     }
-]
+];
+
+//attivo la rotta "/bacheca" che restituisce i posts 
+app.get('/bacheca', (req, res) => {
+    res.json(posts);
+});
